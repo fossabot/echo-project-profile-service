@@ -1,2 +1,6 @@
-# echo-project-profile-service
-The Echo Project Profile service
+# The Echo Project Profile service
+
+[![.NET Build & Test](https://github.com/MNB-Software/echo-project-profile-service/actions/workflows/dotnet.build.yml/badge.svg?branch=main)](https://github.com/MNB-Software/echo-project-profile-service/actions/workflows/dotnet.build.yml)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=bugs)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service)
+ [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MNB-Software_echo-project-profile-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MNB-Software_echo-project-profile-service)
